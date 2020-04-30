@@ -1,0 +1,7 @@
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe.config
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.pdb
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.csprojAssemblyReference.cache
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe
+C:\Users\hugoh\OneDrive\Estudo\Alura\CSharp\AprendendoCSharp\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.pdb
